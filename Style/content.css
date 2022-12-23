@@ -1,0 +1,56 @@
+@font-face
+{
+    font-family:vazir;
+    src: url("./Font/Vazir.ttf");
+}
+@font-face{
+    font-family:comic;
+    src:url("./Font/comic.ttf");
+}
+@font-face{
+    font-family:far;
+    src:url("./Font/Far_khodkar.ttf");
+}
+.pagetitle{
+    font-family:far;
+    text-align: center;
+    font-size:32px;
+    color:rgb(5, 48, 32);
+    margin-top:-5%;
+    text-shadow:0px 0px 10px rgb(66,152,120);
+}
+html{
+    background-color:#b7b7b7;
+}
+div{
+    text-align: center;
+}
+.h14010818{
+    width: 350px;
+    height:450px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 25px rgb(5, 48, 32);
+}.h14010825{
+    width: 70%;
+    height:450px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 25px rgb(5, 48, 32);
+}
+.h14010909{
+    width: 60%;
+    height:450px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 25px rgb(5, 48, 32);
+}
+.h14010916{
+    width: 350px;
+    height:450px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 25px rgb(5, 48, 32);
+}
+.h14010923{
+    width: 70%;
+    height:450px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 25px rgb(5, 48, 32);
+}
