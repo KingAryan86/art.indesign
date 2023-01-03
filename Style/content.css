@@ -30,33 +30,40 @@ div{
     height:450px;
     border-radius: 30px;
     box-shadow: 0px 0px 25px rgb(5, 48, 32);
+    pointer-events: none;
 }.h14010825{
     width: 70%;
     height:450px;
     border-radius: 30px;
     box-shadow: 0px 0px 25px rgb(5, 48, 32);
+    pointer-events: none;
 }
 .h14010909{
     width: 60%;
     height:450px;
     border-radius: 30px;
     box-shadow: 0px 0px 25px rgb(5, 48, 32);
+    pointer-events: none;
 }
 .h14010916{
     width: 350px;
     height:450px;
     border-radius: 30px;
     box-shadow: 0px 0px 25px rgb(5, 48, 32);
+    pointer-events: none;
 }
 .h14010923{
     width: 70%;
     height:450px;
     border-radius: 30px;
     box-shadow: 0px 0px 25px rgb(5, 48, 32);
+    pointer-events: none;
 }
 .h14011007{
     width:50%;
     height:450px;
     border-radius: 30px;
     box-shadow: 0px 0px 25px rgb(5, 48, 32);
+    pointer-events: none;
 }
+
