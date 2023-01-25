@@ -25,6 +25,7 @@ html{
 div{
     text-align: center;
 }
+
 .h14010818{
     width: 350px;
     height:450px;
@@ -33,7 +34,7 @@ div{
     pointer-events: none;
 }.h14010825{
     width: 70%;
-    height:450px;
+    height:400px;
     border-radius: 30px;
     box-shadow: 0px 0px 25px rgb(5, 48, 32);
     pointer-events: none;
@@ -54,7 +55,7 @@ div{
 }
 .h14010923{
     width: 70%;
-    height:450px;
+    height:400px;
     border-radius: 30px;
     box-shadow: 0px 0px 25px rgb(5, 48, 32);
     pointer-events: none;
@@ -66,4 +67,25 @@ div{
     box-shadow: 0px 0px 25px rgb(5, 48, 32);
     pointer-events: none;
 }
-
+.h14011028{
+    width:35%;
+    height:450px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 25px rgb(5, 48, 32);
+    pointer-events: none;
+}
+.btn{  
+    width: 60%;
+    background-color: rgb(66,152,120);
+    border:solid 5px rgba(255,255,255, 0.4);
+    font-family:far;
+    font-size:28px;
+    margin-bottom: 2%;
+    color:white;
+    border-radius: 50px;
+    box-shadow: 0px 0px 12px rgb(5, 48, 32);
+}
+.btn:hover{
+    box-shadow: 0px 0px 25px rgb(5, 48, 32);
+    border:solid 5px rgba(255,255,255, 0.9)
+}

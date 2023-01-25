@@ -4,8 +4,8 @@
     src: url("./Font/Vazir.ttf");
 }
 @font-face{
-    font-family:comic;
-    src:url("./Font/comic.ttf");
+    font-family: comic;
+    src: url("./Font/comic.ttf");
 }
 @font-face{
     font-family:far;
@@ -51,4 +51,7 @@ html{
     box-shadow: 0px 0px 25px rgb(5, 48, 32);
     border:solid 5px rgba(255,255,255, 0.9)
 }
-
+.engtext{
+    font-family:comic;
+    font-size:28px;
+}
